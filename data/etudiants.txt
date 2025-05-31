@@ -1,0 +1,7 @@
+id	prenom	nom	classe	moyenne	absences
+1	Alice	Ngoma	L1	14.5	2
+2	Benoît	Kabila	L2	16.2	0
+3	Carla	Mbemba	L3	13.8	4
+4	David	Ilunga	M1	17.1	1
+5	Emma	Mputu	M2	15.0	3
+
